@@ -1,4 +1,6 @@
 import React from "react";
+import { GiHamburgerMenue } from "react-icons/gi";
+import { MdOutlineRestaurantMenu } from "react-icons/md";
 
 import images from "../../constants/images";
 import "./Navbar.css";
@@ -33,6 +35,9 @@ const Navbar = () => (
       <a href="/" className="p__opensans">
         Book Table
       </a>
+    </div>
+    <div className="app__navbar-smallscreen">
+      <GiHamburgerMenue />
     </div>
   </nav>
 );
