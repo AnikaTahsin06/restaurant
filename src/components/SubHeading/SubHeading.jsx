@@ -6,6 +6,78 @@ const SubHeading = () => (
     <p className="p_cormorant">TITLE</p>
     <img src={images.spoon} alt="spoon" className="spoon__img" />
   </div>
+  <div style={{ marginBottom: "1rem" }}>
+    <p className="p_cormorant">TITLE</p>
+    <img src={images.spoon} alt="spoon" className="spoon__img" />
+  </div>
+  <div style={{ marginBottom: "1rem" }}>
+    <p className="p_cormorant">TITLE</p>
+    <img src={images.spoon} alt="spoon" className="spoon__img" />
+  </div>
+  <div style={{ marginBottom: "1rem" }}>
+    <p className="p_cormorant">TITLE</p>
+    <img src={images.spoon} alt="spoon" className="spoon__img" />
+  </div>
+  <div style={{ marginBottom: "1rem" }}>
+    <p className="p_cormorant">TITLE</p>
+    <img src={images.spoon} alt="spoon" className="spoon__img" />
+  </div>
+  <div style={{ marginBottom: "1rem" }}>
+    <p className="p_cormorant">TITLE</p>
+    <img src={images.spoon} alt="spoon" className="spoon__img" />
+  </div>
+  <div style={{ marginBottom: "1rem" }}>
+    <p className="p_cormorant">TITLE</p>
+    <img src={images.spoon} alt="spoon" className="spoon__img" />
+  </div>
+  <div style={{ marginBottom: "1rem" }}>
+    <p className="p_cormorant">TITLE</p>
+    <img src={images.spoon} alt="spoon" className="spoon__img" />
+  </div>
+  <div style={{ marginBottom: "1rem" }}>
+    <p className="p_cormorant">TITLE</p>
+    <img src={images.spoon} alt="spoon" className="spoon__img" />
+  </div>
+  <div style={{ marginBottom: "1rem" }}>
+    <p className="p_cormorant">TITLE</p>
+    <img src={images.spoon} alt="spoon" className="spoon__img" />
+  </div>
+  <div style={{ marginBottom: "1rem" }}>
+    <p className="p_cormorant">TITLE</p>
+    <img src={images.spoon} alt="spoon" className="spoon__img" />
+  </div>
+  <div style={{ marginBottom: "1rem" }}>
+    <p className="p_cormorant">TITLE</p>
+    <img src={images.spoon} alt="spoon" className="spoon__img" />
+  </div>
+  <div style={{ marginBottom: "1rem" }}>
+    <p className="p_cormorant">TITLE</p>
+    <img src={images.spoon} alt="spoon" className="spoon__img" />
+  </div>
+  <div style={{ marginBottom: "1rem" }}>
+    <p className="p_cormorant">TITLE</p>
+    <img src={images.spoon} alt="spoon" className="spoon__img" />
+  </div>
+  <div style={{ marginBottom: "1rem" }}>
+    <p className="p_cormorant">TITLE</p>
+    <img src={images.spoon} alt="spoon" className="spoon__img" />
+  </div>
+  <div style={{ marginBottom: "1rem" }}>
+    <p className="p_cormorant">TITLE</p>
+    <img src={images.spoon} alt="spoon" className="spoon__img" />
+  </div>
+  <div style={{ marginBottom: "1rem" }}>
+    <p className="p_cormorant">TITLE</p>
+    <img src={images.spoon} alt="spoon" className="spoon__img" />
+  </div>
+  <div style={{ marginBottom: "1rem" }}>
+    <p className="p_cormorant">TITLE</p>
+    <img src={images.spoon} alt="spoon" className="spoon__img" />
+  </div>
+  <div style={{ marginBottom: "1rem" }}>
+    <p className="p_cormorant">TITLE</p>
+    <img src={images.spoon} alt="spoon" className="spoon__img" />
+  </div>
 );
 
 export default SubHeading;
